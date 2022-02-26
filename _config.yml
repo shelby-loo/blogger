@@ -1,9 +1,9 @@
 # ----
 # Site
 
-title: Edition Template
-url: "https://long-pig.cloudvent.net"
-baseurl:
+title: Shelby's
+url: "https://shelby-loo.github.io/blogger/"
+baseurl: /blogger
 google_analytics_key:
 show_full_navigation: true
 
@@ -15,7 +15,7 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Edition Template
+  name: Shelby
   links:
     - https://github.com/CloudCannon/edition-jekyll-template
 
