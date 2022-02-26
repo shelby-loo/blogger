@@ -3,6 +3,6 @@ echo '正在更新博客 ..'
 sleep 2
 jekyll build
 git add .
-git commit -m "Blogger update"
+git commit -m "update"
 git push origin main
 echo '更新完成'
