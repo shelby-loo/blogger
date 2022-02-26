@@ -4,5 +4,5 @@ sleep 2
 jekyll build
 git add .
 git commit -m "update"
-git push origin main --all
+git push --all
 echo '更新完成'
